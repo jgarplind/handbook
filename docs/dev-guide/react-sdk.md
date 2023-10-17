@@ -100,6 +100,8 @@ The component modules support a similar kind of customization to the Jitsi Meet 
 
 * `userInfo`: Optional. The JS object that contains information about the participant starting or joining the meeting (e.g., email).
 
+* `lang`: Optional. The default meeting language.
+
 * `release`: Optional. Information regarding the `stage.8x8.vc` or `8x8.vc` release version. Expects the following format: `release-1234`.
 
 * `spinner`: Optional. The custom spinner to be displayed while the IFrame is loading.
